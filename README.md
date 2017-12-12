@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![Alt text](Screenshot.jpg?raw=true)
+![Alt text](screenshot.jpg?raw=true)
